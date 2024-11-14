@@ -7,4 +7,4 @@ name2 = "kim"
 if name1 == "alex":
     print('Die Variable enthält den String mit dem Namen "alex"')
 else: 
-    print('Die Variable enthält den String mit dem Namen "alex"')
+    print('Die Variable enthält nicht den String mit dem Namen "alex"')
