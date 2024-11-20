@@ -1,1 +1,1 @@
-print('Hello World') #Gibt den Sring "Hello World" aus
+print('Hello World') #Gibt den String "Hello World" aus
